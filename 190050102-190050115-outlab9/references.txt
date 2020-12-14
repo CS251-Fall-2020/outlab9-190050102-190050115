@@ -1,0 +1,1 @@
+https://medium.com/@royanimesh2211/display-items-in-an-android-recyclerview-from-raw-json-file-locally-2ac2467022e0
